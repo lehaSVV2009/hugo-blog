@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Blog</title>
+    <link>http://lehaSVV2009.github.io/hugo-blog/</link>
+    <description>Recent content on Alex Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:53:07 +0300</lastBuildDate>
+    
+	<atom:link href="http://lehaSVV2009.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://lehaSVV2009.github.io/hugo-blog/posts/my-first-post/</link>
+      <pubDate>Tue, 31 Oct 2017 22:53:07 +0300</pubDate>
+      
+      <guid>http://lehaSVV2009.github.io/hugo-blog/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
